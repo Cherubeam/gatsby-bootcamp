@@ -5,7 +5,7 @@ date: '2019-06-09'
 
 I just launched a new bootcamp!
 
-![Grass]('./blade-dawn-dew.jpg)
+![Grass](./blade-dawn-dew.jpg)
 
 ## Topics Covered
 
